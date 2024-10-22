@@ -40,7 +40,9 @@ Lista el contenido del directorio new-project, donde ahora aparece el archivo ne
 **Para listar todos los archivos, incluidos los archivos ocultos, puedes usar el siguiente comando:**
 
 - ls -a
+  
 Desglose del comando:
 
 - ls: Lista los archivos y directorios en el directorio actual.
+  
 -a: Opción que incluye archivos ocultos (aquellos cuyo nombre comienza con un punto .).
